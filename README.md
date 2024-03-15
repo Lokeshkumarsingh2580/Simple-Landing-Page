@@ -21,6 +21,3 @@ git clone https://github.com/Lokeshkumarsingh2580/Simple-Landing-Page.git
 
 ```
 2. Open `index.html` in your web browser.
-3. Explore the different sections such as Work, About, and Contact.
-4. Click on the Contact button to get in touch.
-
